@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://www.ccssoft.com.cn">
         <img width="200" src="http://www.ccssoft.com.cn/images/z_43.jpg">
-    </a>oft
+    </a>
 </p.cn>
 
 # iView Admin
