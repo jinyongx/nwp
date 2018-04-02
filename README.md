@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://www.iviewui.com">
-        <img width="200" src="https://file.iviewui.com/logo.svg">
-    </a>
-</p>
+    <a href="https://www.ccssoft.com.cn">
+        <img width="200" src="http://www.ccssoft.com.cn/images/z_43.jpg">
+    </a>oft
+</p.cn>
 
 # iView Admin
 [![](https://img.shields.io/travis/iview/iview-admin.svg?style=flat-square)](https://travis-ci.org/iview/iview-admin)
